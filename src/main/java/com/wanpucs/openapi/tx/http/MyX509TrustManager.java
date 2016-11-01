@@ -8,11 +8,11 @@ import javax.net.ssl.X509TrustManager;
 /**
  * 自定义签名证书管理类 (接受任意来源证书)
  * 
- * @version 3.0.0
- * @since jdk1.5
- * @author open.qq.com
- * @copyright © 2012, Tencent Corporation. All rights reserved.
- * @History: 3.0.0 | nemozhang | 2012-03-21 12:01:05 | initialization
+ * @version 1.0.0
+ * @since jdk1.7
+ * @author www.wanpucs.com
+ * @copyright © 2016, www.wanpucs.com. All rights reserved.
+ * @History: initialization
  */
 
 public class MyX509TrustManager implements X509TrustManager {
