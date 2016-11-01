@@ -6,7 +6,7 @@
     <version>1.0.1</version>
   </parent>
    <artifactId>wanpucs-java-sdk</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>wanpucs-java-sdk</name>
    <properties> 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
