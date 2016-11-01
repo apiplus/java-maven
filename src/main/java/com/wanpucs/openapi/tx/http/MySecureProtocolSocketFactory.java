@@ -17,11 +17,11 @@ import org.apache.commons.httpclient.protocol.ProtocolSocketFactory;
 /**
  * 自定义SecureProtocolSocketFactory类 (辅助https实现接受任意来源证书)
  * 
- * @version 3.0.0
- * @since jdk1.5
- * @author open.qq.com
- * @copyright © 2012, Tencent Corporation. All rights reserved.
- * @History: 3.0.0 | nemozhang | 2012-03-21 12:01:05 | initialization
+ * @version 1.0.0
+ * @since jdk1.7
+ * @author www.wanpucs.com
+ * @copyright © 2016, www.wanpucs.com. All rights reserved.
+ * @History: initialization
  */
 
 public class MySecureProtocolSocketFactory implements ProtocolSocketFactory {
